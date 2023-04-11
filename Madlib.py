@@ -30,7 +30,5 @@ print(f"beautiful {noun2} you are,")
 print(f"You are, You are! What a beautiful {noun2} you are!")
 output = print("this is a patch")
 
-
-amendd
-
+print("fgyh7t8yfgh vguhj")
 print(output)
