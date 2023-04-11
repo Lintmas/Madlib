@@ -1,6 +1,6 @@
 import time
 
-
+("Vesrion 3")
 
 print("::::::::::welcome to this Madlib::::::::::")
 
@@ -32,3 +32,7 @@ output = print("this is a patch")
 
 print("fgyh7t8yfgh vguhj")
 print(output)
+kjiofghjokfhg
+kjhgfkjhlgfhkjlfgh
+kjlgfdkjlfgkjlgf
+iujtrdlkjfdtjhk
