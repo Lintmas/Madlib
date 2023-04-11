@@ -1,12 +1,11 @@
 import time
 
-("Vesrion 3")
 
 print("::::::::::welcome to this Madlib::::::::::")
 
 time.sleep(1)
 print("::::::::::loading Madlib::::::::::")
-time.sleep(2)
+
 noun = input("Name an animal:::::")
 noun2 =input("Name another animal:::::")
 noun3=input("Name an place:::::")
@@ -16,7 +15,7 @@ noun4 =input("Give me a plural:::::")
 noun5 =input("Give me a plural:::::")
 noun6=input("Give me a plural:::::")
 
-
+time.sleep(2)
 print(f"The {noun} and ")
 print(f"the {noun2} went ")
 print(f"to {noun3} In ")
@@ -28,11 +27,5 @@ print(f"{noun6}O lovely {noun2}! O")
 print(f"{noun2}, my love, What a ")
 print(f"beautiful {noun2} you are,") 
 print(f"You are, You are! What a beautiful {noun2} you are!")
-output = print("this is a patch")
 
-print("fgyh7t8yfgh vguhj")
-print(output)
-kjiofghjokfhg
-kjhgfkjhlgfhkjlfgh
-kjlgfdkjlfgkjlgf
-iujtrdlkjfdtjhk
+
